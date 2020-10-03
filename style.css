@@ -49,11 +49,11 @@ body, html {
 .bg-w p {color: #00DAD6;}
 
 .bg-w= {
-  background: #00DAD6;
-  color: #00DAD6;
+  background: #fff;
+  color: #2d2d30;
 }
 .bg-w h3 {color: #2d2d30;}
-.bg-w p {color: #fff;}
+.bg-w p {color: #7FFFD4;}
 
 
 
